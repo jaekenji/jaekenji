@@ -4,6 +4,6 @@ choice = input("is jaekenji epic? ")
 if choice.lower().startswith('y'):
   print("good")
 else:
-  print("wrong answer)
+  print("wrong answer")
   give_malware()
 ```
